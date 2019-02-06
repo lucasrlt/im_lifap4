@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucas/Documents/Fac/L2S2/LIFAP4/LIF7_TD/src/Image.h
+Pixel.h
+/Users/lucas/Documents/Fac/L2S2/LIFAP4/LIF7_TD/src/Pixel.h
+string
+-
+
+/Users/lucas/Documents/Fac/L2S2/LIFAP4/LIF7_TD/src/Pixel.h
+
+/Users/lucas/Documents/Fac/L2S2/LIFAP4/LIF7_TD/src/main.cpp
+Image.h
+/Users/lucas/Documents/Fac/L2S2/LIFAP4/LIF7_TD/src/Image.h
+iostream
+-
+
